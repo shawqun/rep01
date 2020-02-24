@@ -2,8 +2,8 @@ aaaaaa
 
 cccccccccc
 
-<<<<<<< HEAD
+
 zzzzzzzzzzzzz
-=======
+
 dauhfudashfodsjfhio
->>>>>>> 80b189166b71373eef8684fcf016b5dc5c0a8fb5
+
