@@ -6,5 +6,6 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
 	//sdafdsfa
+	int i= 1+2;
     }
 }
