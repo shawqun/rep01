@@ -2,16 +2,6 @@ aaaaaa
 
 cccccccccc
 
+1440
 
-zzzzzzzzzzzzz
-
-dauhfudashfodsjfhio
-
-22222222222222222
-
-<<<<<<< HEAD
-1428
-=======
-1425
->>>>>>> 82299eae3617d6a8d9e0537c9441d9309fe2ee26
 
